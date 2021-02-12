@@ -1,7 +1,7 @@
 # Unknown Hack for CS:GO
 this hack supporting vac bypass(https://github.com/danielkrupinski/VAC-Bypass)
 
-![title](github.com/carterrrj/unknownhack-csgo/blob/main/images/screensht.png)
+![title](https://github.com/carterrrj/unknownhack-csgo/blob/main/images/screensht.png)
 
 ## Hacks
 *   **Triggerbot**
