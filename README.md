@@ -1,7 +1,7 @@
 # Unknown Hack for CS:GO
 this hack supporting vac bypass(https://github.com/danielkrupinski/VAC-Bypass)
 
-![title](https://github.com/carterrrj/unknownhack/blob/main/screensht.PNG)
+![title](github.com/carterrrj/unknownhack-csgo/blob/main/images/screensht.png)
 
 ## Hacks
 *   **Triggerbot**
@@ -37,11 +37,11 @@ this hack supporting vac bypass(https://github.com/danielkrupinski/VAC-Bypass)
 </details>
 
 ## Glow / Chams Preview
-![title](https://github.com/carterrrj/unknownhack/blob/main/chams.jpg)
-![title](https://github.com/carterrrj/unknownhack/blob/main/glow%20%26%20chams.png)
+![title](https://github.com/carterrrj/unknownhack-csgo/blob/main/images/chams.jpg)
+![title](https://github.com/carterrrj/unknownhack-csgo/blob/main/images/glow%20%26%20chams.png)
 
 ## VMP
-![title](https://github.com/carterrrj/unknownhack/blob/main/12515.PNG)
+![title](https://github.com/carterrrj/unknownhack-csgo/blob/main/images/12515.png)
 
 copy vmprotectsdk32.dll to folder release hack, or protect cheat
 
